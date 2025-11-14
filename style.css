@@ -205,12 +205,13 @@ section{
   text-align: center;
 }
 
-.home .content h3 {
+.home .content h1 {
     font-size: 6rem;
     text-transform: uppercase;
     font-weight: normal;
-    color:#fff;
+    color:var(--primary-color);
     padding-bottom: 3.5rem;
+    font-weight: 800;
 }
 
  /* end */
