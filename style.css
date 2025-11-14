@@ -196,7 +196,9 @@ section{
     display: flex;
     align-items: center;
    justify-content: center;
-    background:url(/images/banner-img.png) no-repeat;
+   background-image: url(./images/banner-img.png);
+   background-repeat: no-repeat;
+    /* background:url(/images/banner-img.png) no-repeat; */
     background-size: cover;
     background-position: center;
 }
